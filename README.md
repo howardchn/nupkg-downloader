@@ -2,6 +2,6 @@
 NuGet package downloader. It downloads the package and its dependencies recursively.
 
 Sample:
-'''python
+```python
 downloadNupkg('https://www.nuget.org/packages/NetTopologySuite/', r'e:\')
-'''
+```
