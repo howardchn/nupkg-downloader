@@ -54,7 +54,6 @@ def downloadUriTo(url, dirname):
     pkgFullname = path.join(dirname, pkgName)
     with open (pkgFullname, 'wb') as output:
         output.write(pkgResponse.read())
-        output.close()
 
 def getHost(url):
     schema = ''
