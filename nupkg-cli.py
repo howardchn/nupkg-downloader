@@ -67,4 +67,4 @@ def getHost(url):
     host = ''.join([schema, domain])
     return host
 
-downloadNupkg('https://www.nuget.org/packages/NetTopologySuite/', r'e:\tmp')
+downloadNupkg('https://www.nuget.org/packages/NetTopologySuite/', r'e:\')
