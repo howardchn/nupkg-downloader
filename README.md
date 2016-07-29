@@ -1,4 +1,4 @@
-# nupkg-downloader
+# NuGet Package Downloader
 
 This is NuGet package downloader. It downloads the package and its dependencies recursively.
 
