@@ -1,0 +1,6 @@
+https://www.nuget.org/packages/NetTopologySuite
+https://www.nuget.org/packages/PdfSharp/1.32.3057
+https://www.nuget.org/packages/Microsoft.SqlServer.Types
+https://www.nuget.org/packages/System.Data.SQLite
+https://www.nuget.org/packages/fleesharp/0.9.27-pre
+https://www.nuget.org/packages/CS-Script.bin
