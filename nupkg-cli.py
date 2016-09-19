@@ -6,7 +6,6 @@ import sys
 
 
 class NupkgHTMLParser (HTMLParser):
-
     def __init__(self):
         super(NupkgHTMLParser, self).__init__()
         self.pkgUrl = ''
