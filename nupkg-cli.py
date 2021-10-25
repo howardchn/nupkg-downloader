@@ -23,7 +23,7 @@ class NupkgHTMLParser (HTMLParser):
 
         if tag == 'ul':
             attrsDict = dict(attrs)
-            if 'class' in attrsDict and attrsDict['class'] == 'dependencySet':
+            if 'class' in attrsDict and attrsDict['class'] == 'list-unstyled dependency-groups':
                 self.dependenciesInTracking = True
 
     def handle_endtag(self, tag):
